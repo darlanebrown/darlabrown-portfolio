@@ -1,0 +1,15 @@
+.container {
+    /* background-image: url(../Darla\ B.jpg); */
+}
+
+.Container hr {
+    position: absolute;
+    left: 0;
+    width: 24px;
+    border: 1px solid #8c1cd1;
+}
+
+.image {
+    width: 100%;
+    max-width: 300px;
+}

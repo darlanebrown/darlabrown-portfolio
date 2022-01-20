@@ -1,0 +1,7 @@
+.container {
+    background: no-repeat url(../assets/images/portfolio-bg.jpg);
+    background-size: cover;
+}
+.carouselItem {
+    background-color: #a4a4a4;
+}
