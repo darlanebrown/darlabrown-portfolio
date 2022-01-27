@@ -40,10 +40,10 @@ const About = () => {
                                 go back to school to learn depth of computer
                                 programming. In my tiny spare time, I’d
                                 volunteered East bay Collective ‘Feed the hood’,
-                                this is where meet at a place and put together
-                                toiletry bags and sandwiches to distribute to
-                                the homeless encampment. But my passions is
-                                support and volunteered Safe Place battered
+                                this is where a gropu of us volunteer at a site and  
+                                we put together toiletry bags and sandwiches to 
+                                distribute to the homeless encampment. But my passions  
+                                is to support and volunteered Safe Place a battered
                                 women shelter fundraisers. Pre-covid I belong to
                                 dance group, where we performed at venues,
                                 parades, and festivals. My passion is music and

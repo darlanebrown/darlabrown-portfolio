@@ -22,6 +22,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://github.com/darlanebrown/ecard" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -29,6 +32,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://github.com/darlanebrown/ecard" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -36,6 +42,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://github.com/darlanebrown/decidr" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -43,6 +52,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://github.com/darlanebrown/haunted-house-game" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -57,6 +69,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -71,6 +86,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -78,6 +96,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     
                 </Carousel>

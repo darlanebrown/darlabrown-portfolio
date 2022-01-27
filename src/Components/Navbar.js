@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
     },
     menu: {
         flexGrow: 1,
-         border: '1px red solid',
+        border: '1px red solid',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'flex-end',

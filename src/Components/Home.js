@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <Layout>
             <div
-                className={`${classes.container} content-container d-flex align-items-center justify-content-center`}
+                className={`${classes.container} border content-container d-flex align-items-start justify-content-center`}
             >
                 <Header />
             </div>

@@ -17,10 +17,10 @@ const Contact = () => {
                     <div className="col-12 col-sm-8">
                         <section className="mb-4">
                             <h2 className="h1-responsive font-weight-bold text-center my-4">
-                                Contact us
+                                Contact me
                             </h2>
                             <p className="text-center w-responsive mx-auto mb-5">
-                              Would you like me to help or hire me?
+                              How can I help you or would you like to hire me?
                             </p>
 
                             <div className="row">
