@@ -22,7 +22,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://github.com/darlanebrown/ecard" target="_blank" rel="noopener noreferrer" >
+                        <a href="https://darlanebrown.github.io/ecard" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -32,7 +32,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://github.com/darlanebrown/ecard" target="_blank" rel="noopener noreferrer" >
+                        <a href="https://darlanebrown.github.io/ecard" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -42,7 +42,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://github.com/darlanebrown/decidr" target="_blank" rel="noopener noreferrer" >
+                        <a href="https://darlanebrown.github.io/decidr" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -52,7 +52,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://github.com/darlanebrown/haunted-house-game" target="_blank" rel="noopener noreferrer" >
+                        <a href="http://luceroweb.github.io/haunted-house-game/" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -69,8 +69,8 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
-                        <h3>View code on github</h3>
+                        <a href="https://damp-earth-86689.herokuapp.com/" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on heroku</h3>
                         </a>
                     </div>
                     <div className={classes.carouselItem}>
@@ -79,6 +79,9 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
+                         <a href="http://Tesfa-Worku.github.io/team-marvel-project" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
                     </div>
                     <div className={classes.carouselItem}>
                         <img
@@ -86,7 +89,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
+                        <a href="https://luceroweb.github.io/trivia-and-chill" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -96,7 +99,7 @@ const Portfolio = () => {
                             alt=""
                             className={classes.image}
                         />
-                        <a href="https://www.github.com" target="_blank" rel="noopener noreferrer" >
+                        <a href="http://Tesfa-Worku.github.io/team-marvel-project" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
