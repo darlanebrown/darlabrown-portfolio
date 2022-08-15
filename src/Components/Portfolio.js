@@ -14,6 +14,7 @@ const Portfolio = () => {
                     infiniteLoop
                     autoPlay
                     dynamicHeight={false}
+                    showThumbs={false}
                     width={700}
                 >
                     <div className={classes.carouselItem}>
