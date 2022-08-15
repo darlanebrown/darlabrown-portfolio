@@ -62,7 +62,7 @@ const Footer = () => {
                     </Grid>
                     <Grid item>
                         <a
-                            href="http://www.linked.com"
+                            href="http://www.linkedin.com"
                             target="https://linkedin.com/in/darla-brown-b1383943"
                             rel="noopener noreferrer"
                             className="text-decoration-none text-black"

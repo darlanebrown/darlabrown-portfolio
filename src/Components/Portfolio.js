@@ -87,7 +87,7 @@ const Portfolio = () => {
                         <img
                             src={require('../assets/images/portfolio/portfolio-8.png')}
                             alt=""
-                            className={classes.image}
+                            className={`${classes.mobileImage} h-100`}
                         />
                         <a href="https://luceroweb.github.io/trivia-and-chill" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
@@ -97,9 +97,19 @@ const Portfolio = () => {
                         <img
                             src={require('../assets/images/portfolio/portfolio-9.png')}
                             alt=""
-                            className={classes.image}
+                            className={classes.mobileImage}
                         />
                         <a href="http://Tesfa-Worku.github.io/team-marvel-project" target="_blank" rel="noopener noreferrer" >
+                        <h3>View code on github</h3>
+                        </a>
+                    </div>
+                    <div className={classes.carouselItem}>
+                        <img
+                            src={require('../assets/images/portfolio-10.png')}
+                            alt=""
+                            className={classes.mobileImage} 
+                        />
+                        <a href="https://luceroweb.github.io/karot-saving-smart" target="_blank" rel="noopener noreferrer" >
                         <h3>View code on github</h3>
                         </a>
                     </div>
@@ -109,5 +119,6 @@ const Portfolio = () => {
         </Layout>
     );
 };
+ 
 
 export default Portfolio;

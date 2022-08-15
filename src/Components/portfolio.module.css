@@ -5,3 +5,7 @@
 .carouselItem {
     background-color: #a4a4a4;
 }
+.mobileImage {
+    width:150px !important;
+    aspect-ratio: 137 / 281; 
+}

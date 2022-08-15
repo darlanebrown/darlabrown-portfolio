@@ -32,8 +32,9 @@ const Resume = () => {
                                         <div className="d-print-none">
                                             <a
                                                 className="btn btn-light text-dark shadow-sm mt-1 me-1"
-                                                href="/src/assets/resume.docx"
+                                                href={require("../assets/docs/resume.pdf")}
                                                 target="_blank"
+                                                rel="noopener noreferrer"
                                             >
                                                 Download CV
                                             </a>
